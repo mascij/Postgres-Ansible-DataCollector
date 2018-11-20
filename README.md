@@ -9,7 +9,7 @@ Setup a simple webserver and configure the SSH keys beforehand.
 ![demo](https://github.com/mascij/postgres-datacollector-ansible/blob/master/ansible-postgres.gif?raw=true)
 
 
-```python
+```shell
 
 ---
 - hosts: localhost
